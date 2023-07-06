@@ -7,7 +7,7 @@ body {
   }
   
   header {
-    background-image: url("fondoIDK.jpg");
+    background-image: url('fondoIDK.jpg');
     background-size: cover;
     background-position: center;
   }
