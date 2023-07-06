@@ -43,10 +43,6 @@ body {
     color: #333;
   }
 
- #acerca_de_mi:target {
-    background-color: yellow;
-  }
-  
   footer {
     background-color: #333;
     color: #fff;
